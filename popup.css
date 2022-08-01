@@ -1,0 +1,27 @@
+button {
+    outline: none;
+    margin: 2px;
+    border: none;
+    border-radius: 2px;
+    height: 30px;
+    background: antiquewhite;
+    cursor: pointer;
+}
+
+button:hover {
+    background: burlywood;
+}
+
+.large_btn {
+    width: 300px;
+}
+
+.user_data_btn {
+    width: 232px;
+}
+
+.delete_btn, .export_btn {
+    width: 30px;
+    vertical-align: bottom;
+    padding: 2px;
+}
